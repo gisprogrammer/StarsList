@@ -28,7 +28,8 @@ SELECT skill_name, rating FROM skills;
 ```
 
 ## Screenshots
-_(Add screenshots showcasing the plugin in action)_
+![StarsList](https://github.com/user-attachments/assets/d0f3814b-c219-438e-9b59-da5ef32429a5)
+
 
 ## License
 This project is licensed under the **GNU General Public License v3.0**.
