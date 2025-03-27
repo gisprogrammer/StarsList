@@ -2,6 +2,8 @@
 
 StarsList is a plugin for Oracle APEX that allows displaying a list of items as a label and a rating (stars) from 0 to 5. It can be used, for example, to rate skills in a CV or other rating systems.
 
+https://ttjqq4ypwecymi3-barberapp.adb.eu-frankfurt-1.oraclecloudapps.com/ords/r/mc/plugins/starslist
+
 ## Features
 - Displays values as stars (from 0 to 5)
 - Customizable styles and colors
